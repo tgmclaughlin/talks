@@ -9,6 +9,24 @@
 
 
 
+## < $ 0.02
+
+cost to generate 1000 lines of code  
+(gpt‑4.1‑mini, apr 2025)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## whoami
 - tom mclaughlin
