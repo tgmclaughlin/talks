@@ -7,6 +7,8 @@
 
 
 
+
+
 ## <$0.02
 
 cost to generate 1000 lines of code  
@@ -337,3 +339,14 @@ if adaptability == learning‑rate, how do we crank it up?
 ## thanks / questions?
 
 - linkedin: tom mclaughlin  •  /in/aibuilder
+
+
+
+
+
+
+
+
+
+
+
