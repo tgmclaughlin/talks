@@ -4,8 +4,6 @@
 
 
 
-# it's the end of the (hello) world as we know it. (and I feel fine)
-
 
 
 
@@ -26,29 +24,22 @@
 
 
 
----
-
-
-
-
 
 
 
 ## tomoro ai
 
-
 ### what
-- applied AI consultancy
-- build cutting-edge generative AI solutions for enterprise clients [insert rolodex of household names]
+- applied ai consultancy
+- build cutting-edge generative ai solutions for enterprise clients [insert rolodex of household names]
 - scale to [insert impressive metric here]
-
 
 ### how
 - working as lean engineering teams (2/3 people)
-- deeply embedded into our client problems and processes 
-- build MVP to prod in < 12 weeks
-- verify 
-- scale 
+- deeply embedded into our client problems and processes
+- build mvp to prod in < 12 weeks
+- verify
+- scale
 
 
 
@@ -56,33 +47,22 @@
 
 
 
----
 
-## how did we get here
-idea behind this section is speed of adaptation. line of thought follows:
-- exams: failure -> fit
-- uni: failure -> fit
-- jp: failure -> fit
-- start ups: failure -> fit
 
-ml analogy throughout: you want to fit - generalise, but not overfit
 
 
 
 
+## the (hello) world has changed
 
+- chatgpt (and friends) landed nov '22
+- cost of writing that first version / mvp -> approaching zero
+- 'anyone' can build now (sort of)
 
 
 
 
 
-### school
-- lazy kid
-- loved games
-- bombed exams
-- realised there was a system to exams after that: get good at past papers
-- ended up loving maths, physics, cs
-- converted to 6 decent A grades following year (from BCC)
 
 
 
@@ -92,18 +72,13 @@ ml analogy throughout: you want to fit - generalise, but not overfit
 
 
 
+## so, what skills matter most?
 
+- if that first build of your app/product is (almost) free, where's the leverage?
 
+- **adaptability** (aka rate of learning)
 
-### uni
-- cs @ strath 
-- riding off success of 6th year
-- too easy
-- until 2nd year exams
-- bombed again
-- reached out to lecturers 
-- low and behold: past papers again
-- tooooo easy
+- that's it. how quickly you can fit to a new problem, tool, or environment.
 
 
 
@@ -115,20 +90,14 @@ ml analogy throughout: you want to fit - generalise, but not overfit
 
 
 
-### getting a 'real job'
-- jp morgan swe
-- 4 years 
-- riding off my degree world tour celebration
-- goal post change
-  - uni java =/= corporate java
-  - promotion??
-  - politics??
 
-- **play the game.**
-- or not?
 
 
+## improving adaptability: learning like machines?
 
+- if adaptability == rate of learning... how do we speed it up?
+- maybe we can borrow ideas from how machines learn.
+- think of your career progression as 'training' yourself.
 
 
 
@@ -136,38 +105,27 @@ ml analogy throughout: you want to fit - generalise, but not overfit
 
 
 
-### crypto billions or bust / nft / sbf / lambos all round
-- obsessed by the domain 
-- technically decent 
-- but priority is to build fast **(now or sooner)**
-- u-turn on the corporate way of building 
-  - (lets have a planning session in two weeks)
 
-- pivot after 7 months
-  - wasn't passionate about the domain
-  - this is key 
-  - fast verify (sort of: 4 years -> 7 months)
 
 
 
 
 
 
+## the ml framework for learning
 
+- **1. evaluation metrics:**
+    - how do you measure 'good' in a role/environment? (your 'fitness function')
+- **2. training data:**
+    - what experiences (good & bad) are you learning from? (quality matters: garbage in, garbage out)
+- **3. fitting:**
+    - using data to meet the metrics. (underfitting vs overfitting vs good fit/generalization)
+- **the loop:** define metrics -> gather data -> evaluate fit -> adjust -> repeat
 
-  
 
 
-### to protect and serve / playing 007 / turns out you can check into hotels with just 'm'
-- boutique defence consultancy 
-- gov sector
-- extremely high quality of engineering
-  - learned from some great engineers here
-- low/no risk profile
 
-- loved it here - cool mission, good culture
 
-- got acquired by large american consultancy
 
 
 
@@ -177,89 +135,60 @@ ml analogy throughout: you want to fit - generalise, but not overfit
 
 
 
+## adapting through experience: my training data
 
+- let's look at some past 'environments' through this ml lens...
 
----
 
 
-### interlude - what's this chatgpt thing all about
-- who remembers their first time?
-- what about first time getting code from it?
-  - what an adventure that was
 
-- have used chatgpt or equivalent every day since nov 2022 (check this)
 
-- "if this gets better it's going to change things in a big way"
 
-- used it for docs 
-- used it for writing code
-- used it for reviewing code
-- used it for architecting
-- used it for learning 
-- used it to make calls
-- used it to automatically generate CVs specific to job descriptions
-- even used it to check this presentation
 
-- "but we shouldn't use it to generate documentation"
-  - what???
 
-- **story time**
 
 
-- time to find a new dataset to fit to...
 
 
 
 
----
+## example 1: school exams
 
+- **environment:** scottish high school exams
+- **evaluation metric:** passing grades (realisation: metric heavily weighted on past paper performance)
+- **initial approach:** lazy kid, loved games, didn't focus on metric
+- **result:** bombed exams (`underfitting`)
+- **adaptation:** changed `training data` -> focused heavily on past papers
+- **outcome:** 6 'a' grades (`good fit` achieved for that specific metric)
 
 
 
 
 
 
-### contract consulting
-- what needs built
-- how long will it take
-- how many people
-- what will it cost
-- what is the roi on that
-- how do you sell that business case
 
-- big fit to business
 
 
-- but...
-- surely businesses don't actually work like this
-- they do.
 
 
 
 
 
+## example 2: university exams
 
+- **environment:** university (cs @ strathclyde), 2nd year
+- **evaluation metric:** passing exams (again, past papers were key)
+- **initial approach:** coasting off school success (poor `generalization` from previous environment?)
+- **result:** bombed exams (`poor fit`)
+- **adaptation:** sought feedback (lecturers), updated `training data` -> focused on *uni* past papers
+- **outcome:** found it easy (`good fit` achieved again)
 
 
 
 
 
-### mate what are you on about? who cares?
 
-- golden thread (using ml analogy)
 
-- how do machines learn?
-  
-  - each of these experience is a training set:
-  
-  - in some cases we underfit to that set
-    - typically before failing exams
-    
-  - in others we see overfit
-    - usually after passing exams
-    
-  - sometimes we even see a **good** fit
-    - like realising gen ai was going to be mega high leverage
 
 
 
@@ -267,26 +196,36 @@ ml analogy throughout: you want to fit - generalise, but not overfit
 
 
 
----
+## example 3: corporate swe (jp morgan)
 
+- **environment:** large investment bank, corporate java dev
+- **evaluation metric:** changed significantly! (corporate standards, promotions, politics != academic grades)
+- **initial approach:** relying on degree success (failed to `generalize` again)
+- **result:** 'goal posts moved', uni java skills != corporate java needs (`poor fit` initially)
+- **adaptation:** required learning new technical standards, understanding promotion paths, navigating politics ('play the game')
+- **outcome:** needed significant adaptation to new `eval metrics` & environment.
 
 
 
 
-### this was meant to be a talk about what skills matter now, was it not?
-- yes, so here it is:
 
 
 
 
 
-** adaptability ** aka rate of learning
 
 
 
 
 
+## example 4: crypto startup
 
+- **environment:** fast-paced startup, crypto domain
+- **evaluation metric:** speed of execution ('build fast: now or sooner'), domain obsession/passion.
+- **initial approach:** technically decent, u-turn on corporate process (conscious adaptation attempt).
+- **result:** built fast, but realised lack of passion (`poor fit` on 'passion' metric).
+- **adaptation:** pivoted after 7 months (faster `fitting loop` / `verification` than corporate).
+- **outcome:** learned importance of domain passion as a personal `eval metric`. faster adaptation cycle.
 
 
 
@@ -294,7 +233,6 @@ ml analogy throughout: you want to fit - generalise, but not overfit
 
 
 
----
 
 
 
@@ -302,329 +240,224 @@ ml analogy throughout: you want to fit - generalise, but not overfit
 
 
 
+## example 5: defence consultancy
 
-## thanks for coming to my talk!
-- any questions?
-- find me on linkedin:
+- **environment:** boutique consultancy, gov sector, high-quality engineering focus
+- **evaluation metric:** engineering rigour, quality, risk mitigation, cultural fit.
+- **initial approach:** brought experiences from corporate/startup.
+- **result:** strong alignment with mission/culture (`good fit`). exposed to excellent engineers (high-quality `training data`).
+- **adaptation:** adjusted to extremely high-quality standards & low-risk profile (contrast to startup speed).
+- **outcome:** successful `fit`, gained valuable high-quality engineering `training data`. (environment changed later due to acquisition).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## example 6: contract consulting
+
+- **environment:** independent consulting, client business focus
+- **evaluation metric:** defining scope, cost, time, roi; building & selling a business case.
+- **initial approach:** leveraging technical background.
+- **result:** needed to rapidly acquire business acumen (potential `poor fit` on business metrics initially).
+- **adaptation:** focused learning on business needs, communication, value proposition (`fit to business`).
+- **outcome:** developed skills translating technical solutions to business value.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## the accelerator: enter chatgpt (& friends)
+
+- november 2022 changed the game *again*.
+- who remembers their first time using it? getting code from it?
+- personal usage: daily since launch (docs, code, review, architecture, *learning*, cv tailoring, checking this talk...).
+- it massively speeds up parts of the `fitting loop`.
+- it's also a source of `training data` itself (good and bad!).
+- resistance is futile? ("but we shouldn't use it for docs!" - why not?)
+- **story time:** [insert brief, impactful story of using chatgpt for learning/adaptation]
+- time to adapt to *this* new environment... and use the new tools.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## learning loops: easier now... or harder?
+
+- remember early llm coding? code -> error -> paste error -> fix -> repeat.
+- that painful loop was valuable: failures were frequent `training data` points. you *had* to learn why it broke.
+- current llms often 'one-shot' simple tasks correctly. convenient, but...
+- ...do we lose those 'free' learning opportunities when things *don't* break?
+- how do we ensure deep learning when the tool gets *too* good?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## the strategy: seek complexity (& failure)
+
+- if simple tasks lack learning friction... aim higher.
+- **give llms more ambitious goals.** push their limits (and yours).
+- tackle problems where failure *is* likely, even expected.
+- **reframe failure:** it's not the end, it's high-quality `training data`. it's where the *real* learning starts.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## learning from complexity: the process
+
+- failure signals the start of collaborative analysis.
+- **1. break it down:** decompose the complex failure into smaller sub-problems.
+- **2. diagnose together:** use your intuition *and* the llm to understand *why* each part failed.
+- **3. iterate on fixes:** work *with* the llm to solve the sub-problems. test -> refine -> repeat.
+- **4. synthesize:** solving enough small problems solves the big one. this *is* the accelerated learning loop.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## the payoff: accelerating your learning rate
+
+- this process (seek complexity -> collaborative failure analysis) *is* the engine.
+- you're not just solving the problem; you're actively upgrading your skills & understanding faster.
+- this directly increases your **adaptability / rate of learning**.
+- this is how you build leverage and thrive in the post-llm world.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## applying the loop: beyond code
+
+- this framework isn't just for software engineers writing code.
+- seek complexity -> learn from failure -> accelerate learning... applies to *any* knowledge work.
+- research, design, analysis, strategy, writing... you name it.
+- start by applying it consistently in your day job. build the habit.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## maximum leverage: high-intensity environments
+
+- want to *turbo-charge* your learning rate? seek high-intensity exposure.
+- **1. startups:** join one or start one. solve real problems under pressure. ultimate `fit` test.
+- **2. hackathons:** tackle diverse problems fast. collaborate with motivated peers. intense `fitting loops`.
+- **3. accelerators (yc, ef, etc.):** condensed startup/hackathon pressure cooker. forces rapid adaptation.
+- these environments provide dense, high-quality `training data` and demand accelerated learning.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## tl;dr / key takeaways
+
+- **adaptability (rate of learning)** is the crucial skill now.
+- think like ml: define `eval metrics`, get `training data` (exposure!), iterate your `fit`.
+- use llms to accelerate, but seek complexity to ensure deep learning from (collaborative) failure analysis.
+- apply everywhere: day job, startups, hackathons, accelerators. maximize exposure.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## thanks / questions?
+
+- find me on linkedin: 
+  - tom mclaughlin 
   - /in/aibuilder
-
-
-
-
-
-
-
-
-
-
----
-
-
-
-
-
-
-
-
-### insert picture slide of charles darwin before asking the audience if anyone can tell me who this is
-
-- quote the bit about 
-
-  - "it isn't the fittest/strongest/smartest that survive, it is those who adapt fastest"
-  
-- proceed to lead audience down the rabbit hole 
-
-- make wild claim that my theory is essentially the theory of evolution 
-
-
-off record: adapt to what?? environment
-
-
-
-
-
-
-
-
----
-
-
-
-
-
-
-
-
-
-### if adaptation is key, how can we optimise for it?
-
-
-- my thesis is that we learn in a not dissimilar way to how machines learn
-
-- so we could look there for advice
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-
-
-
-
-
-
-
-
-
-### so what works for machines?
-
-
-
-
-
-- quality of evaluation metrics
-  - what gets measured gets improved
-
-
-
-- quality of data
-  - garbage in garbage out
-
-
-
-- once you have that, the training is the really easy part
-
-  
-  
-
-
-
-
-
-
-
-
-
-
-
----
-
-
-
-
-
-### where do we get the evals?
-
-- this is your concept of 'fitness'
-
-- what makes someone good at [insert role here]
-  
-  - being a student?
-    - exam scoring
-    - dissertation writing
-
-  - working as a software engineer?
-    - writing good software
-    - working with others
-    - playing the politics a bit
-
-  - working at a crypto start up?
-    - speed of execution
-    - domain obsession
-
-  - working in defence consultancy?
-    - solid engineering skills
-    - ability to reduce risk 
-    - 
-
-  - working at tomoro?
-
-
-
-  
-
----
-
-
-
-
-
-
-### we have our evals, how do we improve the model?
-
-
-- we need our dataset of examples
-  - "what does good look like?"
-  - "what does bad look like?"
-  
-
-- we want roughly the same amount of examples from each side
-  - why?
-  - adrian driving instructor analogy: you always go too slow 
-    - i want you to go faster so i get to tell you to slow down
-  - you need a boundary at each side (use hands to show that narrowing)
-
-
-
-
-
-
-
-
-
-
-
----
-
-
-
-
-
-
-
-### sourcing your **high quality** dataset
-
-- the whole point in this section will be around exposure:
-  - bad examples are fairly trivial to come by
-  - good examples are harder - you need to seek them out
-
-- how do we seek? or where?
-  - hackathons
-  - conferences (like this one)
-  - meet up groups
-  - start ups
-  - accelerators: ef/yc etc etc
-
-  - really, it depends on your evals - but this is what has worked for me
-
-- the more exposure you can get the more you can build out that dataset of what does good look like in your domain
-  of fitness and start to train on it
-
-
-
-
-
-
-
----
-
-
-
-
-### gen ai / chatgpt makes this way easier
-
-- i use the full hour per day allowance of chatgpt adv voice mode
-  - why wouldn't you?
-    - it's essentially an hour with a private tutor on the subject of your choice every day
-
-
-- certain models are great at gathering this dataset for specific domains
-  - right now:
-    - claude is excellent at writing code and doing architecture planning/reviews
-
-    - gemini is leading the way in deep research (again - exposure)
-
-    - openai for voice interactions is winning
-
-    - elevenlabs likely in the same bucket
-
-
-
-
-
-
-
-
----
-
-
-### next steps to accelerate learning rate?
-
-
-- systemize your metrics:
-  - for environment x, what does good look like?
-    - technical skills
-    - soft skills
-
-
-- start the data collection process to build your training set:
-  - good examples:
-
-    - get involved in a hackathon
-    - go to a meet up group
-    - go to a conference
-    - speak to people on linkedin etc etc who you think are working in that sector. pick their brain
-    - go all out and apply for ef/yc etc
-  
-    - surround yourself with good data
-
-  - bad examples:
-    - don't worry about hunting for them, you'll know it when you see it
-
-
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-## thanks for coming to my talk! (for real this time)
-- find me on linkedin:
-  - /in/aibuilder
-
-
-- any questions?
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
